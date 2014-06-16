@@ -1,3 +1,22 @@
+## microstrain_3dmgx2_imu (hydro) - 1.5.12-1
+
+The packages in the `microstrain_3dmgx2_imu` repository were released into the `hydro` distro by running `/usr/bin/bloom-release microstrain_3dmgx2_imu -t hydro -r hydro` on `Mon, 16 Jun 2014 21:39:00 -0000`
+
+The `microstrain_3dmgx2_imu` package was released.
+
+Version of package(s) in repository `microstrain_3dmgx2_imu`:
+- rosdistro version: `1.5.12-0`
+- old version: `1.5.12-0`
+- new version: `1.5.12-1`
+
+Versions of tools used:
+- bloom version: `0.5.10`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.0`
+- vcstools version: `0.1.33`
+
+
 ## microstrain_3dmgx2_imu (indigo) - 1.5.12-0
 
 The packages in the `microstrain_3dmgx2_imu` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo microstrain_3dmgx2_imu --edit` on `Mon, 21 Apr 2014 22:49:35 -0000`
