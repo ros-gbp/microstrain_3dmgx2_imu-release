@@ -1,3 +1,24 @@
+## microstrain_3dmgx2_imu (jade) - 1.5.12-0
+
+The packages in the `microstrain_3dmgx2_imu` repository were released into the `jade` distro by running `/usr/bin/bloom-release microstrain_3dmgx2_imu --track jade --rosdistro jade --new-track` on `Thu, 23 Apr 2015 00:56:39 -0000`
+
+The `microstrain_3dmgx2_imu` package was released.
+
+Version of package(s) in repository `microstrain_3dmgx2_imu`:
+- upstream repository: https://github.com/ros-drivers/microstrain_3dmgx2_imu.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.5.12-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.35`
+
+
 ## microstrain_3dmgx2_imu (indigo) - 1.5.12-2
 
 The packages in the `microstrain_3dmgx2_imu` repository were released into the `indigo` distro by running `/usr/bin/bloom-release microstrain_3dmgx2_imu -t indigo -r indigo` on `Mon, 16 Jun 2014 21:41:31 -0000`
