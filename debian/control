@@ -1,0 +1,12 @@
+Source: ros-jade-microstrain-3dmgx2-imu
+Section: misc
+Priority: extra
+Maintainer: Chad Rockey <chadrockey@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), liblog4cxx10-dev, ros-jade-catkin, ros-jade-diagnostic-updater, ros-jade-message-generation, ros-jade-roscpp, ros-jade-self-test, ros-jade-sensor-msgs, ros-jade-std-msgs, ros-jade-std-srvs, ros-jade-tf
+Homepage: http://www.ros.org/wiki/microstrain_3dmgx2_imu
+Standards-Version: 3.9.2
+
+Package: ros-jade-microstrain-3dmgx2-imu
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, liblog4cxx10-dev, ros-jade-diagnostic-updater, ros-jade-message-runtime, ros-jade-roscpp, ros-jade-self-test, ros-jade-sensor-msgs, ros-jade-std-msgs, ros-jade-std-srvs, ros-jade-tf
+Description: A driver for IMUs compatible the microstrain 3DM-GX2 and 3DM-GX3 protocol. Includes a heavily modified standalone driver pulled from the player distribution, and a ROS node.
