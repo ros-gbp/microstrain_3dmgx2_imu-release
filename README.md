@@ -1,3 +1,26 @@
+## microstrain_3dmgx2_imu (kinetic) - 1.5.12-1
+
+The packages in the `microstrain_3dmgx2_imu` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -t kinetic -r kinetic microstrain_3dmgx2_imu --new-track` on `Tue, 21 Mar 2017 20:32:03 -0000`
+
+The `microstrain_3dmgx2_imu` package was released.
+
+Version of package(s) in repository `microstrain_3dmgx2_imu`:
+
+- upstream repository: https://github.com/ros-drivers/microstrain_3dmgx2_imu.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.5.12-0`
+- new version: `1.5.12-1`
+
+Versions of tools used:
+
+- bloom version: `0.5.25`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## microstrain_3dmgx2_imu (kinetic) - 1.5.12-0
 
 The packages in the `microstrain_3dmgx2_imu` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -t kinetic -r kinetic microstrain_3dmgx2_imu --new-track` on `Tue, 21 Mar 2017 20:21:07 -0000`
