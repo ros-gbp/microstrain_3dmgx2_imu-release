@@ -1,3 +1,26 @@
+## microstrain_3dmgx2_imu (melodic) - 1.5.12-0
+
+The packages in the `microstrain_3dmgx2_imu` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic microstrain_3dmgx2_imu` on `Sat, 30 Mar 2019 23:45:33 -0000`
+
+The `microstrain_3dmgx2_imu` package was released.
+
+Version of package(s) in repository `microstrain_3dmgx2_imu`:
+
+- upstream repository: https://github.com/ros-drivers/microstrain_3dmgx2_imu.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.5.12-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.11`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.3`
+- vcstools version: `0.1.40`
+
+
 ## microstrain_3dmgx2_imu (lunar) - 1.5.12-0
 
 The packages in the `microstrain_3dmgx2_imu` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar microstrain_3dmgx2_imu` on `Sat, 30 Mar 2019 23:38:57 -0000`
