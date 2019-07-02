@@ -1,0 +1,13 @@
+Source: ros-melodic-microstrain-3dmgx2-imu
+Section: misc
+Priority: extra
+Maintainer: Chad Rockey <chadrockey@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), liblog4cxx-dev, ros-melodic-catkin, ros-melodic-diagnostic-updater, ros-melodic-message-generation, ros-melodic-roscpp, ros-melodic-self-test, ros-melodic-sensor-msgs, ros-melodic-std-msgs, ros-melodic-std-srvs, ros-melodic-tf
+Homepage: http://www.ros.org/wiki/microstrain_3dmgx2_imu
+Standards-Version: 3.9.2
+
+Package: ros-melodic-microstrain-3dmgx2-imu
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, liblog4cxx-dev, ros-melodic-diagnostic-updater, ros-melodic-message-runtime, ros-melodic-roscpp, ros-melodic-self-test, ros-melodic-sensor-msgs, ros-melodic-std-msgs, ros-melodic-std-srvs, ros-melodic-tf
+Description: A driver for IMUs compatible the microstrain 3DM-GX2 and 3DM-GX3 protocol.
+ Includes a heavily modified standalone driver pulled from the player distribution, and a ROS node.
